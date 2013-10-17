@@ -1,0 +1,4 @@
+tkalcMacOS
+==========
+
+tkalc for MacOs
